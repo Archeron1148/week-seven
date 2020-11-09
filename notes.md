@@ -12,3 +12,13 @@ ABM:
         - Define the elements and processes (you believe are) required to address the system (model the system). mention paradox Occam’s razor vs. emergence
         - Express the chosen elements and processes as computer code (implement the model)
         Modeling is a process of constant iteration. Each stage is an iteration loop that is often repeated several times before jumping into the next step. The end result of development and exploration of a model may be relatively stable, often in the form of publications. However, this product potentially feeds a new modeling effort (and that is actually the main usefulness of models in the long run).
+
+PODCAST:
+
+    enchantment --> a mode of being, open to the world
+    archaeological material is an eruption of deep time into the world, it should be used to enchant the world, to enchant people, to change the world for the better
+    the enchantment of the archaeological record in european journal of archaeology
+    digital necromancy
+    Dr. Iza Romanowska
+        -did work in palmyra
+        -doing covid-19 stuff
