@@ -22,3 +22,20 @@ PODCAST:
     Dr. Iza Romanowska
         -did work in palmyra
         -doing covid-19 stuff
+
+Messy Assemblages, Residuality and Recursion within a Phygital Nexus
+https://epoiesen.library.carleton.ca/2019/03/16/messy-assemblages/
+
+    This visual essay is a reflection on the movement of objects and images within the phygital and, in particular, how different components of assemblages meet, mingle and sometimes experience ontological shifts, when an artist and an archaeologist, and their practices and apparatus, intra-act within a ‘phygital nexus’.
+    Phygital objects are digitally defined but can be invoked, instantiated and brought into constellation with other entities both physically and virtually.
+    The term ‘assemblage’ has many connotations. In art it refers to the combination of found and collected objects into a composition (e.g. Figure 2). 
+    As Theodor Adorno would say “Art is magic delivered from the lie of being truth”. 
+    In archaeology, the concept of assemblage has traditionally had two main distinct, but overlapping, meanings. It can refer to “a collection of objects associated on the basis of their depositional or spatial find-context (e.g. midden assemblage) and a collection of one type of object found within a site or area (e.g. pottery assemblage)” (Lucas 2012, 193-4). 
+    However, Gavin Lucas, building on Manuel DeLanda’s assemblage theory, who draws, residually, on the philosophy of Giles Deleuze and Felix Guattari, has rearticulated the concept of archaeological assemblages to foreground their external relationships, such as their relations to their environment and other assemblages, as opposed to the internal conﬁgurations of their component parts, which are recognized as having a certain amount of autonomy, insofar as they can move between assemblages and recombine elsewhere in other spatiotemporal contexts.
+    Colonization is shaped by the dual processes of enchainment (also described as coding, or citation) and exposure (or deterritorialization). This force maintains the material coherence of the assemblage even though it might be displaced, perhaps far away, in time and space from its original setting and meaning. 
+    By contrast, the entropic force of dissipation harnesses the twin processes of containment and dispersal, meaning that elements of an assemblage break up and disintegrate, but largely remain close to their original setting. 
+    ‘Residuality’ refers to the phenomenon of objects, fragments or materials that persist and reoccur in contexts other than those they originated in (e.g., Brown 1995; Lucas 2017).
+    Consider the sinking of a well. The excavator cuts through pre-existing deposits redepositing materials from earlier temporal horizons into subsequent, increasingly messy, assemblages and contexts containing (re)mixed, or reworked, components originating from multiple temporal horizons. In this shift of context some residual objects within the assemblage may experience ontological transformations.
+    ***all DSLR images and digital scans are based on point measurements and no matter what resolution is adopted they are still only digital surface samples, and consequently always considerably less than the original subject under examination (Carter 2017). When such point readings are interpolated into meshes for 3D renders or 3D printing a significant proportion of these sampled data are discarded algorithmically. In other words more detail is being lost with each new recursive rendering, print or scan.***
+        -note relating this to data reuse from last week
+    
