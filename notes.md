@@ -38,4 +38,18 @@ https://epoiesen.library.carleton.ca/2019/03/16/messy-assemblages/
     Consider the sinking of a well. The excavator cuts through pre-existing deposits redepositing materials from earlier temporal horizons into subsequent, increasingly messy, assemblages and contexts containing (re)mixed, or reworked, components originating from multiple temporal horizons. In this shift of context some residual objects within the assemblage may experience ontological transformations.
     ***all DSLR images and digital scans are based on point measurements and no matter what resolution is adopted they are still only digital surface samples, and consequently always considerably less than the original subject under examination (Carter 2017). When such point readings are interpolated into meshes for 3D renders or 3D printing a significant proportion of these sampled data are discarded algorithmically. In other words more detail is being lost with each new recursive rendering, print or scan.***
         -note relating this to data reuse from last week
-    
+    https://vimeo.com/170699480
+    Unfortunately, the only surviving residue of the first minster movie is a JPEG3 recursion of a VHS PAL tape video, which itself was copied from a U-matic video tape master. It serves to remind us that while the initial geometric definition of the re-imagined Old Minster may have been orthothetic in nature (Stiegler n.d.), each instantiation, re-registration (e.g. scan, JPEG photographs, video, or 3D print) and, more often than we might realise, every time such digital instantiations are compressed for transmission a degree of digital decay or entropy is introduced (e.g., Figures 17, 21 & 22). 
+    Like the assemblages we feature, our commentary is messy
+
+Messy Assemblages, Residuality and Recursion within a Phygital Nexus: First Response
+https://epoiesen.library.carleton.ca/2019/07/26/messy-assemblages-response1/
+
+    A messy assemblage of the virtual and physical is at the core of this tenet [(transubstantiation)] of the Catholic tradition. If the authors have 'merely' recast transubstantiation into a modern context and are using the idea as a way to think through the relationships between physical and digital things, so what? What does a sincere belief in a modern transubstatiation do for us as archaeologicsts, artists and thinkers about the material world?
+    ***Our modern, Western, scientifically oriented slice of society is perhaps rather unusual in that it lacks a sincere belief in a transubstatiation-like phenomenon. It is, perhaps, this lack of faith in things outside the bounds of logic that drives a fascination with the phygital and transformations within it. The phygital is alluring precisely because it provides an opportunity, within the framework of scientific modernity, to connect with the mystical or spiritual, or at least with the more-than-physical. In creating a phygital nexus, as the authors do with Winchester Minster, they effectively become priests or true believers, with the heady power to invoke a transubstiation.***
+    That the meaning of an object changes dependant on its context is a truism, but inflected into the realm of the phygital, which implies repeated transformation as part of the character of the realm, it becomes an inheretn and cental property of being a phygital thing.
+
+Avatars, Monsters, and Machines: A Cyborg Archaeology
+https://www.cambridge.org/core/journals/european-journal-of-archaeology/article/avatars-monsters-and-machines-a-cyborg-archaeology/CD467A5E5232B50D6CAA4D72091FCFA9/core-reader
+
+
